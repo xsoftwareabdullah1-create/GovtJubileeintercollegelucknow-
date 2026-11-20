@@ -1,0 +1,206 @@
+GOVERNMENT JUBILEE INTER COLLEGE, LUCKNOW
+CUSTOM WEBSITE & CONTENT LICENCE
+GJIC-CWCL-2026
+Version 1.0 — 20 November 2026
+
+IMPORTANT NOTICE
+This is a custom, project-specific licence drafted for this repository. It is not an OSI-approved open-source licence and does not claim to be the world's most complicated or universally enforceable licence. It is not legal advice. Its legal effect depends on ownership, authority, applicable law and the facts of each use. The person publishing this file must have authority to grant the rights stated here. If the publisher is not authorised to act for Government Jubilee Inter College, Lucknow, the College should review and approve this licence before it is represented as the College's official licence.
+
+LICENSOR / IDENTIFIED RIGHTS HOLDER
+Government Jubilee Inter College, Lucknow
+(“College”, “Licensor” or “Rights Holder”)
+
+PROJECT
+The source files, page content, stylesheets, scripts, documentation and project-specific materials distributed in this repository (the “Project Materials”), subject to the exclusions and third-party rights described below.
+
+1. DEFINITIONS AND INTERPRETATION
+
+1.1 “You” means any individual, organisation, company, institution, public body or other legal person accessing, viewing, downloading or using any Project Materials.
+
+1.2 “Project” means the Government Jubilee Inter College, Lucknow website project hosted in this repository, including its revisions and associated documentation.
+
+1.3 “Source Materials” means the HTML, CSS, JavaScript, text, layout, design elements and documentation that the Licensor is legally entitled to license.
+
+1.4 “College Marks” means the College's name, crest, emblem, seal, logo, insignia, trade names and other institutional identifiers. College Marks are not licensed merely because they appear in the repository.
+
+1.5 “Third-Party Materials” means any photograph, font, icon, library, service, text, logo or other material owned or controlled by a person other than the Licensor.
+
+1.6 “Commercial Use” means use primarily intended for monetary compensation, commercial advantage, advertising, resale, paid distribution or promotion of a third party's goods or services.
+
+1.7 “Derivative Work” means a translation, adaptation, modification, redesign, port, compilation or other work based on or incorporating protected Project Materials.
+
+1.8 Headings are for convenience only. “Including” means “including without limitation”. The singular includes the plural and vice versa where the context permits.
+
+2. OWNERSHIP AND RESERVATION OF RIGHTS
+
+2.1 All rights not expressly granted under this licence are reserved by the relevant rights holder.
+
+2.2 Nothing in this licence transfers ownership of the Project Materials, College Marks or Third-Party Materials to You.
+
+2.3 Copyright, trademark, personality, privacy, database and other rights remain with their respective owners.
+
+2.4 A repository being publicly accessible does not, by itself, place its contents in the public domain or grant permission to reuse them.
+
+3. LIMITED PERMISSION
+
+3.1 Subject to full compliance with this licence, the Licensor grants You a limited, revocable, non-exclusive, non-transferable and non-sublicensable permission to view and use the Source Materials solely for personal, educational, research, accessibility review and non-commercial evaluation purposes.
+
+3.2 This permission does not include a right to publish a modified copy, distribute a fork as an official College website, offer the Project as a hosted service, sell access to it or imply institutional approval.
+
+3.3 Any permission required beyond clause 3.1 must be obtained in writing from the relevant rights holder before the additional use begins.
+
+4. CONDITIONS OF USE
+
+You must:
+
+4.1 retain all existing copyright, attribution, provenance and licence notices in any permitted copy;
+
+4.2 identify substantial quotations or extracts as originating from this Project where reasonably practicable;
+
+4.3 avoid presenting unofficial, outdated or unverified information as a current College announcement;
+
+4.4 avoid suggesting that You are an employee, representative, authorised agent or official spokesperson of the College unless separately authorised;
+
+4.5 comply with applicable laws, regulations, court orders and the rights of third parties;
+
+4.6 take reasonable steps to prevent accidental disclosure of personal, confidential or security-sensitive information;
+
+4.7 obtain separate permission for any use of College Marks that is not already authorised by the relevant rights holder; and
+
+4.8 stop any use that the relevant rights holder lawfully asks You to stop.
+
+5. PROHIBITED USES
+
+Unless separately authorised in writing, You must not:
+
+5.1 sell, sublicense, rent, lease or commercially redistribute the Project Materials;
+
+5.2 publish a modified version while representing it as the official College website;
+
+5.3 remove or falsify copyright, attribution, provenance or licence notices;
+
+5.4 use College Marks in a way that implies endorsement, affiliation, sponsorship or official status;
+
+5.5 register a domain, account, social-media identity, product or service that impersonates the College or is likely to cause confusion;
+
+5.6 use the Project Materials to deceive, defraud, harass, discriminate against or unlawfully profile any person;
+
+5.7 insert malicious code, credential collection, hidden tracking or unauthorised data collection into a redistributed copy;
+
+5.8 interfere with the availability, security or integrity of the College's systems or any hosting provider;
+
+5.9 scrape, harvest or republish personal information in breach of applicable law or an individual's rights;
+
+5.10 claim ownership of the College's emblem, seal, institutional identity or materials belonging to another rights holder; or
+
+5.11 use the Project Materials in a manner prohibited by applicable law.
+
+6. MODIFICATIONS AND DERIVATIVE WORKS
+
+6.1 You may make private modifications for permitted personal or educational evaluation.
+
+6.2 This licence does not grant permission to publicly distribute, host or commercially exploit a modified version.
+
+6.3 A modified version must not remove provenance information or imply that it has been reviewed, approved or maintained by the College.
+
+6.4 Permission to publish a derivative work must be obtained in writing and may be subject to additional conditions.
+
+7. COLLEGE MARKS AND EMBLEM
+
+7.1 No trademark, service-mark, emblem, crest, seal or institutional-name licence is granted by implication, estoppel or otherwise.
+
+7.2 The appearance of a College Mark in a screenshot, image, source file or web page does not constitute permission to reproduce it elsewhere.
+
+7.3 Any approved use must follow the written brand, placement, sizing and context requirements issued by the relevant rights holder.
+
+7.4 You must not distort, recolour, combine, animate or otherwise alter an official emblem in a way that misrepresents the institution.
+
+8. THIRD-PARTY MATERIALS
+
+8.1 Third-Party Materials are not licensed by this document. Their owners' terms apply.
+
+8.2 External websites, fonts, hosting platforms, APIs and other services may have separate privacy policies, terms of service and availability conditions.
+
+8.3 You are responsible for checking the relevant permissions before reusing any Third-Party Materials.
+
+8.4 If a Project file contains material whose ownership or licence is unclear, do not assume it is free to reuse; seek clarification from the relevant rights holder.
+
+9. PRIVACY AND PERSONAL INFORMATION
+
+9.1 This licence does not authorise the collection, processing, disclosure or publication of personal information.
+
+9.2 Any personal information must be handled under applicable privacy and data-protection laws and the instructions of the responsible data controller.
+
+9.3 You must not treat contact details, photographs, student information, staff information or other personal data visible in the Project as permission to create unrelated databases, mailing lists or profiles.
+
+10. NO WARRANTY
+
+10.1 To the maximum extent permitted by applicable law, the Project Materials are provided “AS IS” and “AS AVAILABLE”, without warranties of any kind, whether express, implied or statutory.
+
+10.2 No guarantee is made that the Project is accurate, complete, current, secure, uninterrupted, error-free or suitable for a particular purpose.
+
+10.3 The Project is not a substitute for official College communication, government notifications, board records or direct confirmation from the College.
+
+11. LIMITATION OF LIABILITY
+
+11.1 To the maximum extent permitted by applicable law, the Licensor will not be liable for indirect, incidental, special, exemplary, punitive or consequential loss arising from use of the Project Materials.
+
+11.2 Nothing in this licence excludes or limits liability that cannot lawfully be excluded or limited under applicable law.
+
+11.3 You remain responsible for your own use, modifications, publications, hosting arrangements and compliance obligations.
+
+12. INDEMNITY
+
+To the extent permitted by law, You are responsible for claims, losses and reasonable costs arising from Your unauthorised redistribution, misleading representation, unlawful use or breach of third-party rights. This clause does not create liability where applicable law prohibits it.
+
+13. TERMINATION
+
+13.1 The permission granted under clause 3 ends automatically if You materially breach this licence.
+
+13.2 On termination, You must stop the use that is outside the permission granted and remove unauthorised distributed copies under Your control, to the extent legally required.
+
+13.3 Clauses concerning ownership, reserved rights, College Marks, third-party rights, disclaimers, liability, indemnity and dispute resolution survive termination to the extent applicable.
+
+14. CHANGES TO THIS LICENCE
+
+14.1 The Licensor may publish a revised version for future use.
+
+14.2 A revision does not automatically rewrite a separate written permission already granted, unless that permission says so or the parties agree otherwise.
+
+14.3 The version included with the copy You accessed is the version relevant to that access, subject to applicable law.
+
+15. GOVERNING LAW AND JURISDICTION
+
+15.1 This licence is intended to be interpreted under the laws of India, subject to mandatory legal protections and rules that cannot lawfully be excluded.
+
+15.2 Subject to applicable law and the jurisdiction of competent courts, disputes shall be brought before the competent courts at Lucknow, Uttar Pradesh, India.
+
+15.3 Nothing in this clause prevents a person from exercising a non-waivable statutory right before a forum that has mandatory jurisdiction.
+
+16. SEVERABILITY
+
+If any provision is held invalid, unlawful or unenforceable, it shall be limited or severed only to the minimum extent necessary. The remaining provisions shall continue to the extent permitted by law.
+
+17. NO WAIVER
+
+A failure or delay in exercising a right under this licence does not waive that right. A waiver must be express and legally effective.
+
+18. ENTIRE LICENCE
+
+This document states the terms governing the permission it grants for the Project Materials. It does not override third-party licences, statutory rights, privacy rights or separate written agreements.
+
+19. NO AGENCY OR ENDORSEMENT
+
+Nothing in this licence creates a partnership, agency, employment, sponsorship or official endorsement relationship between You and the College.
+
+20. CONTACT AND PERMISSION REQUESTS
+
+For permission beyond the limited uses described above, contact Government Jubilee Inter College, Lucknow through an officially verified institutional channel. Do not assume that a public repository issue, personal account or unverified email address is an authorised legal notice address.
+
+21. FINAL ACKNOWLEDGEMENT
+
+By exercising the limited permission in clause 3, You agree to comply with the applicable terms of this licence. If You do not agree, do not use, copy, modify or redistribute the Project Materials beyond rights independently granted by law.
+
+------------------------------------------------------------
+© Govt Jubilee Inter College 2026 All right reserved
+------------------------------------------------------------
