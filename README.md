@@ -104,6 +104,13 @@ The institution name, emblem and other identifying marks may have separate owner
 - **Actions:** https://github.com/xsoftwareabdullah1-create/GovtJubileeintercollegelucknow-/actions
 - **Website:** Enable GitHub Pages in repository settings to view the published site.
 
+
+## ◉ 10 — Developer profile
+
+The website includes a **Developer** page introducing Dev, an independent developer and technology enthusiast. It highlights current interests in Android development (Java/XML), C/C++, Python, JavaScript, web development, Termux and GitHub Actions, alongside a practical, self-learning and problem-solving approach.
+
+[Open the Developer page](developer.html) · [GitHub profile](https://github.com/xsoftwareabdullah1-create)
+
 ---
 
 <div align="center">
